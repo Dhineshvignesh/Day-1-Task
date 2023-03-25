@@ -1,0 +1,13 @@
+2. Write a blog about object and its internal representation in javascrip ?
+   
+    
+       Ans: 1. A JavaScript object is a collection of named values having state and behavior
+            (properties and method)”. For example: Person, car, pen, bike, Personal Computer,  
+             Washing Machine etc. Take the case of cars. All cars have the same properties,  
+             but the property values differ from car to car.
+
+
+             2. Loosely speaking, objects in JavaScript may be defined as an unordered collection
+                of related data, of primitive or reference types, in the form of “key: value” pairs. 
+               These keys can be variables or functions and are called properties and methods, respect 
+                ively, in the context of an object.
